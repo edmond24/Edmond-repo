@@ -3,6 +3,9 @@
 Follow this as a guide to completing the project design writeup. The questions for each section are merely there to suggest what the baseline should cover; be sure to use detail as it will make the project much easier to approach as the class moves on.
 
 ### Project Problem and Hypothesis
+The project is about a Functional Medicine Wellness clinic whice provides the most convenient and holistic approach to address the root cause of symptoms or diseases as compared to basic symptom management often found in conventional medicine. Functional Medicine involves a series of testing to find the root cause of diseases instead of treating just symptions. This clinic do high level testing than the routine annual physical offered by primary care doctors. Unlike a routine physical exam which only occurs annually, functional Medicine testing requires a patient to test twice yearly. Not all the patients show up for their second round of testing after six months so the clinic usually have to track them down. 
+
+
 * What's the project about? What problem are you solving?
 * Where does this seem to reside as a machine learning problem? Are you predicting some continuous number, or predicting a binary value?
 * What kind of impact do you think it could have?
